@@ -1,0 +1,16 @@
+# Pycharm and VSC settings, virtual env, Jupyter Notebook checkpoints
+.idea/
+.idea
+.vscode/
+.venv
+__pycache__/
+*.pyc
+**/.ipynb_checkpoints
+
+# Logs
+**/*.log
+
+# other
+data/
+tmp/
+**/*.db
